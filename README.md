@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Doaa
-#### I am an Embedded Software Engineer
+### Hi there 👋, I'm Doaa
+#### I am an Embedded Software Engineer @ Valeo
 Embedded Software Engineer, ITI 9-month Professional Program Graduate.
 
-Skills: Embedded C, ARM/AVR, Communication Protocols, Embedded Linux
+Skills: Embedded C, ARM/AVR, Communication Protocols, AUTOSAR, RTOS, Embedded Linux
 
-- 🔭 I’m currently working on ITI Graduation Project 
+- 🔭 I’m currently working at Valeo
 - 📫 How to reach me: https://www.linkedin.com/in/doaa-maher98/ 
